@@ -4,6 +4,9 @@ Project using the Pico-W RP2040 board with VS Code, implementing a simple blinky
 It includes as well the 'sample' program, used for the 'scientific debugging' part. The program implements the ShellSort to sort a list of numbers.
 Connect with a terminal to the VCOM of the USB port of the board.
 
+## Assignment
+The report for this assignment is "SwEng_assignment_6_Aebischer" in the root directory.
+
 ## Build
 Project has `Debug`, `Release` and `Test` targets, using CMake Presets. 
 
